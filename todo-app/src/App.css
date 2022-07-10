@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.app_container{
+  background: aquamarine;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.todo_container{
+  background-color: bisque;
+  min-width: 450px;
+  min-height: 650px;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 40px;
+  box-shadow: 5px 15px 20px;
+  margin-bottom: 10px;
+}
